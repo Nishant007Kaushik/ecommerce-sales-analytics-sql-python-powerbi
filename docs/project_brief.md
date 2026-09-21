@@ -21,7 +21,7 @@ an interactive Power BI dashboard.
 - Source: Brazilian E-Commerce Public Dataset by Olist (Kaggle)
 - 9 CSV files: orders, order items, payments, reviews, customers,
   sellers, products, geolocation, product category translation
-- Period: [fill in after checking the date range]
+- Period: September 2016 to October 2018
 - Volume: [fill in after checking the row counts]
 
 ## 5. Tools
