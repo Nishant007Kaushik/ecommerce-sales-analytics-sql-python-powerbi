@@ -11,15 +11,15 @@
 
 | Table | Rows |
 |---|---|
-| customers | |
-| geolocation | |
-| orders | |
-| order_items | |
-| order_payments | |
-| order_reviews | |
-| products | |
-| sellers | |
-| product_category_translation | |
+| customers | 99,441 |
+| geolocation | 1,000,163 |
+| orders | 99,441 |
+| order_items | 112,650 |
+| order_payments | 103,886 |
+| order_reviews | 99,224 |
+| products | 32,951 |
+| sellers | 3,095 |
+| product_category_translation | 71 |
 
 **Findings**
 - Order date range: 4 Sep 2016 to 17 Oct 2018 (approx. 2 years)

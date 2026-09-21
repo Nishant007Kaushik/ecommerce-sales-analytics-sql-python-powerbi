@@ -22,7 +22,7 @@ an interactive Power BI dashboard.
 - 9 CSV files: orders, order items, payments, reviews, customers,
   sellers, products, geolocation, product category translation
 - Period: September 2016 to October 2018
-- Volume: [fill in after checking the row counts]
+- Volume: about 99,000 orders, 112,000 order items, and 9 tables
 
 ## 5. Tools
 MySQL, Python (Pandas, Matplotlib), Power BI, Excel
