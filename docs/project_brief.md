@@ -2,8 +2,7 @@
 
 ## 1. Business Context
 Olist is a Brazilian e-commerce marketplace that connects small sellers
-to customers across the country. [Add 1-2 lines in your own words about
-what the business needs from its data.]
+to customers across the country. Like a business team asking an analyst for reports, this business needs answers from its data: which products and sellers perform best, which regions sell the most, and how delivery time affects reviews. I analyze the data with SQL and Python and present the results in Power BI.
 
 ## 2. Objective
 Analyze order, delivery, payment, and review data to understand what
