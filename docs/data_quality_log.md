@@ -64,3 +64,11 @@
 4. Don't assume 1:1 between order_reviews and orders — 789 review_ids link to 2+ orders
 5. Handle 610 products with no category as "unknown"
 6. Confirm handling of the Sep 2016 and Oct 2018 partial months before building any time trend (from Day 1 findings)
+
+## Business analysis findings (Day 3)
+- Confirmed: Sep-Dec 2016 has almost no order data (1, 265, 0, 1 orders) — excluded from trend analysis; real trend starts Jan 2017
+- Nov 2017 shows a spike (7,289 orders) — likely Black Friday, worth flagging not excluding
+- Late deliveries average 2.57 stars vs 4.29 for on-time — strongest insight in the dataset
+- Only 3% of customers are repeat buyers (2,801 / 93,358)
+- SP is by far the top state by revenue, consistent with its size/economy
+- Seller 7c67e1448b00f6e969d365cea6b010ab has high revenue but a low 3.35 avg review score — flagged for quality review
