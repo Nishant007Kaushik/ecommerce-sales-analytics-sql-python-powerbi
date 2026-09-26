@@ -44,7 +44,8 @@ and payment method distribution.
    At least one high-revenue seller has an average review score below 3.5.
    *Recommendation: flag sellers with high volume but low scores for a quality review, since they pose reputational risk at scale.*
 
-   ## How to Run This Project
+## How to Run This Project
+
 1. Download the dataset from Kaggle: [Brazilian E-Commerce Public Dataset by Olist](https://www.kaggle.com/datasets/olistbr/brazilian-ecommerce)
 2. Create the MySQL database and tables: run `sql/01_create_tables.sql`
 3. Load the data: `pip install pandas sqlalchemy pymysql` then `python scripts/load_data.py`
